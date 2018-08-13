@@ -1,0 +1,15 @@
+{
+  "name": "docker-webapp",
+  "version": "1.0.0",
+  "description": "create a docker image out of node.js webapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jebasinghluccas"
+  },
+  "author": "jebasingh Luccas",
+  "license": "ISC"
+}
